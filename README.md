@@ -1,4 +1,4 @@
-# Studydigs
+# Studydigs :house:
 
 Site URL: www.studydigs.com
 
@@ -6,7 +6,7 @@ This project has been developed for CS39930 - Web Based Major Project which is a
 
 Study Digs is a website for students to search through available student rental houses in their area that have been uploaded by estate agents and landlords. It will be a streamlined way for students to see all the information they need about the properties including facilities, location, price, and whether bills are included.
 
-## Details for installation
+## Details for installation 🖥️
 1. Create the database tables in a MySQL database using the SQL stored in the `studydigs_sql.sql` file.
 2. Within the file app->config->config.php:
     2a. Change the database paramenters to your own database credientials.
@@ -17,7 +17,7 @@ Study Digs is a website for students to search through available student rental 
     else 
         3b. Set  RewriteBase to your file path with /public on the end, for example: /studydigs/public
 
-## Requirements:
+## Requirements: 🔓
 The site uses the following libraries and frameworks:
 1. PHPCodeSniffer
 2. Bootstrap
