@@ -1,0 +1,31 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+  
+  .color-underline {
+    -webkit-text-decoration-color: var(--bs-blue);
+            text-decoration-color: var(--bs-blue);
+  }
+  
+  .color-underline:hover {
+    -webkit-text-decoration-color: navy;
+            text-decoration-color: navy;
+  }
+
+  
+
+  
+
+  
+
+$primary: #6d8ebf;
+$info: #ededed;
+
+
+
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
+  
+  
